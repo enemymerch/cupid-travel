@@ -21,6 +21,9 @@ Cupid Travel is a web application for managing hotels, facilities, and room amen
 - Manage room amenities
 - Fetch data from external APIs
 - Scheduled tasks for automatic data updates
+- Entity Relation Diagram:
+
+![ER Diagram](./erd.jpeg)
 
 ## Requirements
 
