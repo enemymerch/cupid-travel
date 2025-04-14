@@ -35,7 +35,8 @@ Cupid Travel is a web application for managing hotels, facilities, and room amen
 31. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/cupid-travel.git cd cupid-travel
+git clone https://github.com/enemymerch/cupid-travel.git
+cd cupid-travel
 ```
 
 32. Package the project with Maven:
@@ -63,7 +64,7 @@ http://localhost:8085
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/cupid-travel.git
+git clone https://github.com/enemymerch/cupid-travel.git
 cd cupid-travel
 ```
 
