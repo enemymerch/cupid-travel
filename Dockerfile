@@ -1,0 +1,14 @@
+FROM openjdk:17-jdk-slim
+
+ARG JAR_FILE=target/*.jar
+COPY ${JAR_FILE} app.jar
+
+ENV SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/cupid
+ENV SPRING_DATASOURCE_USERNAME=cupid
+ENV SPRING_DATASOURCE_PASSWORD=cupid
+ENV SPRING_REDIS_HOST=redis
+ENV SPRING_REDIS_PORT=6379
+
+EXPOSE 8080
+
+ENTRYPOINT ["java", "-jar", "/app.jar"]

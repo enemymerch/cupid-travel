@@ -1,0 +1,38 @@
+spring:
+    web:
+        locale: en
+    application:
+        name: cupid-travel
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/cupid}
+        username: ${SPRING_DATASOURCE_USERNAME:cupid}
+        password: ${SPRING_DATASOURCE_PASSWORD:cupid}
+    jpa:
+        show-sql: false
+        hibernate:
+            ddl-auto: none
+            dialect: org.hibernate.dialect.PostgreSQLDialect
+    liquibase:
+        change-log: classpath:/db/changelog/db.changelog-master.yaml
+        enabled: true
+    cache:
+        type: redis
+    data:
+        redis:
+            host: ${SPRING_REDIS_HOST:127.0.0.1}
+            port: ${SPRING_REDIS_PORT:6379}
+cupid:
+    api-url: "https://content-api.cupid.travel/v3.0/property/"
+    api-token-header: "x-api-key"
+    api-token: "i2O4p6A8s0D3f5G7h9J1k3L5m7N9b"
+    api-http-method: "GET"
+    review-api-url-path: "reviews/"
+    review-api-batch-size: 10
+    facility-api-url-path: "facilities"
+    amenity-api-url-path: "room_amenities"
+    hotel-translation-api-url-path: "/lang/"
+    #    hotel-ids: 1641879, 317597, 1202743, 1037179, 1154868, 1270324, 1305326, 1617655, 1975211, 2017823, 1503950, 1033299, 378772, 1563003, 1085875, 828917, 830417, 838887, 1702062, 1144294, 1738870, 898052, 906450, 906467, 2241195, 1244595, 1277032, 956026, 957111, 152896, 896868, 982911, 986491, 986622, 988544, 989315, 989544, 990223, 990341, 990370, 990490, 990609, 990629, 1259611, 991819, 992027, 992851, 993851, 994085, 994333, 994495, 994903, 995227, 995787, 996977, 1186578, 999444, 1000017, 1000051, 1198750, 1001100, 1001296, 1001402, 1002200, 1003142, 1004288, 1006404, 1006602, 1006810, 1006887, 1007101, 1007269, 1007466, 1011203, 1011644, 1011945, 1012047, 1012140, 1012944, 1023527, 1013529, 1013584, 1014383, 1015094, 1016591, 1016611, 1017019, 1017039, 1017044, 1018030, 1018130, 1018251, 1018402, 1018946, 1019473, 1020332, 1020335, 1020386, 1021856, 1022380
+    hotel-ids: 1641879, 317597, 1202743, 1037179
+scheduler:
+    enabled: true

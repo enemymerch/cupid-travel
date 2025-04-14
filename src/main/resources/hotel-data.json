@@ -1,0 +1,2082 @@
+{
+    "data": {
+        "hotel_id": 1238361,
+        "cupid_id": 1238361,
+        "main_image_th": "https://static.cupid.travel/hotels/thumbnail/269716193.jpg",
+        "hotel_type": "Hotels",
+        "hotel_type_id": 204,
+        "chain": "Independent",
+        "chain_id": 14675,
+        "latitude": 43.94403,
+        "longitude": 4.80533,
+        "hotel_name": "Hôtel Le Bristol",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "address": {
+            "address": "44 Cours Jean Jaurès",
+            "city": "Avignon",
+            "country": "FR"
+        },
+        "stars": 4,
+        "airport_code": "",
+        "rating": 7.9,
+        "review_count": 4634,
+        "checkin_start": "15:00",
+        "checkin_end": "",
+        "checkout": "11:00",
+        "parking": "NOT_AVAILABLE",
+        "group_room_min": 4,
+        "child_allowed": true,
+        "pets_allowed": true,
+        "photos": [
+            {
+                "url": "https://static.cupid.travel/hotels/hd/90313969.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/90313969.jpg",
+                "image_description": "",
+                "image_class1": "hotel building",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.41,
+                "class_id": 4,
+                "class_order": 1
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716102.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716102.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.57,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716131.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716131.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.69,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716273.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716273.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.8,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716197.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716197.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.74,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716215.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716215.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.8,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/hd/269716308.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716308.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.38,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716246.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716246.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.82,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716205.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/269716205.jpg",
+                "image_description": "",
+                "image_class1": "hotel reception",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.78,
+                "class_id": 13,
+                "class_order": 2
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716051.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716051.jpg",
+                "image_description": "",
+                "image_class1": "restaurant",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.96,
+                "class_id": 14,
+                "class_order": 4
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711757.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711757.jpg",
+                "image_description": "",
+                "image_class1": "restaurant",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.97,
+                "class_id": 14,
+                "class_order": 4
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716080.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716080.jpg",
+                "image_description": "",
+                "image_class1": "restaurant",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.12,
+                "class_id": 14,
+                "class_order": 4
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716065.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716065.jpg",
+                "image_description": "",
+                "image_class1": "restaurant",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.59,
+                "class_id": 14,
+                "class_order": 4
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269719501.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269719501.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.66,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269719190.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269719190.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.6,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269719955.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269719955.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.26,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713805.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713805.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.36,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713851.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713851.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.56,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713834.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713834.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.74,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716185.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/269716185.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.93,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713820.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713820.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.49,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713788.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713788.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.44,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713865.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713865.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.26,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713817.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713817.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.65,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716138.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716138.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.95,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/hd/269713781.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713781.jpg",
+                "image_description": "",
+                "image_class1": "hotel room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5,
+                "class_id": 1,
+                "class_order": 8
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716289.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/269716289.jpg",
+                "image_description": "",
+                "image_class1": "living room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.61,
+                "class_id": 29,
+                "class_order": 9
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269716227.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269716227.jpg",
+                "image_description": "",
+                "image_class1": "living room",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.94,
+                "class_id": 29,
+                "class_order": 9
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269717595.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269717595.jpg",
+                "image_description": "",
+                "image_class1": "bathroom",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.79,
+                "class_id": 2,
+                "class_order": 10
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269717543.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269717543.jpg",
+                "image_description": "",
+                "image_class1": "bathroom",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.46,
+                "class_id": 2,
+                "class_order": 10
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269717548.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269717548.jpg",
+                "image_description": "",
+                "image_class1": "bathroom",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.73,
+                "class_id": 2,
+                "class_order": 10
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/hd/269717554.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269717554.jpg",
+                "image_description": "",
+                "image_class1": "bathroom",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.49,
+                "class_id": 2,
+                "class_order": 10
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711745.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711745.jpg",
+                "image_description": "",
+                "image_class1": "breakfast buffet",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.06,
+                "class_id": 22,
+                "class_order": 14
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711741.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711741.jpg",
+                "image_description": "",
+                "image_class1": "breakfast buffet",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.88,
+                "class_id": 22,
+                "class_order": 14
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711736.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711736.jpg",
+                "image_description": "",
+                "image_class1": "breakfast buffet",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.83,
+                "class_id": 22,
+                "class_order": 14
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711773.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711773.jpg",
+                "image_description": "",
+                "image_class1": "other",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 5.23,
+                "class_id": 27,
+                "class_order": 27
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269713797.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269713797.jpg",
+                "image_description": "",
+                "image_class1": "other",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.61,
+                "class_id": 27,
+                "class_order": 27
+            },
+            {
+                "url": "https://static.cupid.travel/hotels/269711779.jpg",
+                "hd_url": "https://static.cupid.travel/hotels/hd/269711779.jpg",
+                "image_description": "",
+                "image_class1": "other",
+                "image_class2": "",
+                "main_photo": false,
+                "score": 4.75,
+                "class_id": 27,
+                "class_order": 27
+            }
+        ],
+        "description": "<p><strong>Historic Location Inside Avignon Ramparts</strong><br>Located inside the historic ramparts of Avignon, Hôtel Le Bristol offers a unique and authentic stay in the heart of the city. Just steps away from the bustling center, guests can immerse themselves in the rich history and culture of Avignon.</p><p><strong>Comfortable Rooms and Convenient Amenities</strong><br>The air-conditioned rooms at Hôtel Le Bristol are thoughtfully equipped with modern amenities including a desk, flat-screen TV, and a private bathroom. The 24-hour front desk and concierge service ensure that guests have a comfortable and hassle-free stay.</p><p><strong>Delightful Dining Experience</strong><br>Start your day right with a delicious buffet breakfast offered at Hôtel Le Bristol. Whether you prefer a light meal or a hearty feast, the breakfast spread caters to all tastes and sets the tone for a wonderful day of exploring Avignon.</p><p>Book your stay at Hôtel Le Bristol and experience the charm of Avignon from within its historic walls.</p>",
+        "markdown_description": "**Historic Location Inside Avignon Ramparts**\nLocated inside the historic ramparts of Avignon, Hôtel Le Bristol offers a unique and authentic stay in the heart of the city. Just steps away from the bustling center, guests can immerse themselves in the rich history and culture of Avignon.\n\n**Comfortable Rooms and Convenient Amenities**\nThe air-conditioned rooms at Hôtel Le Bristol are thoughtfully equipped with modern amenities including a desk, flat-screen TV, and a private bathroom. The 24-hour front desk and concierge service ensure that guests have a comfortable and hassle-free stay.\n\n**Delightful Dining Experience**\nStart your day right with a delicious buffet breakfast offered at Hôtel Le Bristol. Whether you prefer a light meal or a hearty feast, the breakfast spread caters to all tastes and sets the tone for a wonderful day of exploring Avignon.\n\nBook your stay at Hôtel Le Bristol and experience the charm of Avignon from within its historic walls.",
+        "important_info": "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.\nDue to Coronavirus (COVID-19), this property is taking steps to help protect the safety of guests and staff. Certain services and amenities may be reduced or unavailable as a result.\nDue to Coronavirus (COVID-19), wearing a face mask is mandatory in all indoor common areas.\n\n\tWhen booking [5] rooms or more, different policies and additional supplements may apply.",
+        "facilities": [
+            {
+                "facility_id": 47,
+                "name": "WiFi available"
+            },
+            {
+                "facility_id": 107,
+                "name": "Free WiFi"
+            },
+            {
+                "facility_id": 16,
+                "name": "Non-smoking rooms"
+            },
+            {
+                "facility_id": 109,
+                "name": "Air conditioning"
+            },
+            {
+                "facility_id": 8,
+                "name": "24-hour front desk"
+            },
+            {
+                "facility_id": 80,
+                "name": "Heating"
+            },
+            {
+                "facility_id": 28,
+                "name": "Family rooms"
+            },
+            {
+                "facility_id": 4,
+                "name": "Pets allowed"
+            },
+            {
+                "facility_id": 48,
+                "name": "Lift / Elevator"
+            },
+            {
+                "facility_id": 91,
+                "name": "Luggage storage"
+            },
+            {
+                "facility_id": 49,
+                "name": "Express check-in/check-out"
+            },
+            {
+                "facility_id": 51,
+                "name": "Safety deposit box"
+            },
+            {
+                "facility_id": 7,
+                "name": "Bar"
+            },
+            {
+                "facility_id": 81,
+                "name": "Fax/photocopying"
+            },
+            {
+                "facility_id": 78,
+                "name": "Tour desk"
+            },
+            {
+                "facility_id": 64,
+                "name": "Soundproof rooms"
+            },
+            {
+                "facility_id": 25,
+                "name": "Facilities for disabled guests"
+            },
+            {
+                "facility_id": 108,
+                "name": "Non-smoking throughout"
+            },
+            {
+                "facility_id": 127,
+                "name": "Private check-in/check-out"
+            },
+            {
+                "facility_id": 143,
+                "name": "Shared lounge/TV area"
+            },
+            {
+                "facility_id": 170,
+                "name": "Board games/puzzles"
+            },
+            {
+                "facility_id": 124,
+                "name": "Concierge service"
+            },
+            {
+                "facility_id": 203,
+                "name": "Wine/champagne"
+            },
+            {
+                "facility_id": 218,
+                "name": "Pet bowls"
+            },
+            {
+                "facility_id": 455,
+                "name": "Staff adhere to local safety protocols"
+            },
+            {
+                "facility_id": 450,
+                "name": "Laundry washed per local authority guidelines"
+            },
+            {
+                "facility_id": 449,
+                "name": "Cleaning standards that are effective against Coronavirus"
+            },
+            {
+                "facility_id": 462,
+                "name": "Physical distancing rules followed"
+            },
+            {
+                "facility_id": 457,
+                "name": "Hand sanitizer in guest room and key areas"
+            },
+            {
+                "facility_id": 425,
+                "name": "Fire extinguishers"
+            },
+            {
+                "facility_id": 459,
+                "name": "First aid kit available"
+            },
+            {
+                "facility_id": 467,
+                "name": "Sanitized tableware & silverware"
+            },
+            {
+                "facility_id": 460,
+                "name": "Contactless check-in/check-out"
+            },
+            {
+                "facility_id": 465,
+                "name": "Invoice provided"
+            },
+            {
+                "facility_id": 422,
+                "name": "Smoke alarms"
+            },
+            {
+                "facility_id": 456,
+                "name": "Shared stationery like menus, pens are removed"
+            },
+            {
+                "facility_id": 466,
+                "name": "Property cleaned by professional cleaning companies"
+            },
+            {
+                "facility_id": 453,
+                "name": "Physical distancing in dining areas"
+            },
+            {
+                "facility_id": 454,
+                "name": "Food delivered to guest room"
+            },
+            {
+                "facility_id": 424,
+                "name": "CCTV outside property"
+            },
+            {
+                "facility_id": 423,
+                "name": "CCTV in common areas"
+            },
+            {
+                "facility_id": 464,
+                "name": "Screens / Barriers between staff and guests for safety"
+            },
+            {
+                "facility_id": 488,
+                "name": "Face masks for guests available"
+            },
+            {
+                "facility_id": 418,
+                "name": "24-hour security"
+            },
+            {
+                "facility_id": 421,
+                "name": "Security alarm"
+            }
+        ],
+        "policies": [
+            {
+                "policy_type": "POLICY_HOTEL_GROUPS",
+                "name": "Groups",
+                "description": "When booking more than 4 rooms, different policies and additional supplements may apply.\n",
+                "child_allowed": "",
+                "pets_allowed": "",
+                "parking": ""
+            },
+            {
+                "policy_type": "POLICY_HOTEL_INTERNET",
+                "name": "Internet",
+                "description": "WiFi is available in all areas and is free of charge.\n",
+                "child_allowed": "",
+                "pets_allowed": "",
+                "parking": ""
+            },
+            {
+                "policy_type": "POLICY_HOTEL_PARKING",
+                "name": "Parking",
+                "description": "No parking available.\n",
+                "child_allowed": "",
+                "pets_allowed": "",
+                "parking": ""
+            },
+            {
+                "policy_type": "POLICY_HOTEL_PETS",
+                "name": "Pets",
+                "description": "Pets are allowed. Charges may be applicable.\n",
+                "child_allowed": "",
+                "pets_allowed": "",
+                "parking": ""
+            },
+            {
+                "policy_type": "POLICY_CHILDREN",
+                "name": "Children and extra bed policy",
+                "description": "Children of any age are allowed.\nYou haven't added any cots.\nYou haven't added any extra beds.",
+                "child_allowed": "",
+                "pets_allowed": "",
+                "parking": ""
+            }
+        ],
+        "rooms": [
+            {
+                "id": 65937,
+                "room_name": "Classic  Room",
+                "description": "Rooms include satellite TV, modern en suite facilities and free Wi-Fi.",
+                "room_size_square": 17,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 2,
+                "max_children": 1,
+                "max_occupancy": 2,
+                "bed_types": [
+                    {
+                        "quantity": 2,
+                        "bed_type": "Single bed(s)",
+                        "bed_size": "90-130 cm wide"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 39,
+                        "name": "Extra long beds (> 2 metres)",
+                        "sort": 18
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713834.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713834.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.74,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/hd/269719190.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269719190.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.6,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713820.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269713820.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.49,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/hd/269717543.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269717543.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 5.46,
+                        "class_id": 2,
+                        "class_order": 29
+                    }
+                ]
+            },
+            {
+                "id": 65938,
+                "room_name": "Classic Room",
+                "description": "Rooms include satellite TV, modern en suite facilities and free Wi-Fi.",
+                "room_size_square": 14,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 2,
+                "max_children": 1,
+                "max_occupancy": 2,
+                "bed_types": [
+                    {
+                        "quantity": 1,
+                        "bed_type": "Large bed(s) (King size)",
+                        "bed_size": "151-180cm wide"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269719955.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269719955.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.26,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713851.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713851.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.56,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713865.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713865.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.26,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269717543.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269717543.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 5.46,
+                        "class_id": 2,
+                        "class_order": 29
+                    }
+                ]
+            },
+            {
+                "id": 22612203,
+                "room_name": "Superior Room",
+                "description": "Rooms include satellite TV, modern en suite facilities and free Wi-Fi.",
+                "room_size_square": 23,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 3,
+                "max_children": 2,
+                "max_occupancy": 3,
+                "bed_types": [
+                    {
+                        "quantity": 3,
+                        "bed_type": "Single bed(s)",
+                        "bed_size": "90-130 cm wide"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713817.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713817.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.65,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713781.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713781.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 5,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713805.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269713805.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.36,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269717595.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269717595.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.79,
+                        "class_id": 2,
+                        "class_order": 29
+                    }
+                ]
+            },
+            {
+                "id": 22612204,
+                "room_name": "Superior Room",
+                "description": "Rooms include satellite TV, modern en suite facilities and free Wi-Fi.",
+                "room_size_square": 19,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 3,
+                "max_children": 2,
+                "max_occupancy": 3,
+                "bed_types": [
+                    {
+                        "quantity": 1,
+                        "bed_type": "Single bed(s)",
+                        "bed_size": "90-130 cm wide"
+                    },
+                    {
+                        "quantity": 1,
+                        "bed_type": "Large bed(s) (King size)",
+                        "bed_size": "151-180cm wide"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 39,
+                        "name": "Extra long beds (> 2 metres)",
+                        "sort": 18
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/hd/269713809.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269713809.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.41,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269717595.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269717595.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.79,
+                        "class_id": 2,
+                        "class_order": 29
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269717554.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269717554.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 5.49,
+                        "class_id": 2,
+                        "class_order": 29
+                    }
+                ]
+            },
+            {
+                "id": 22612206,
+                "room_name": "Junior Suite",
+                "description": "The family room provides a safe deposit box, a sofa, as well as a private bathroom featuring a bath or a shower and a hairdryer. This family room is air-conditioned and features a flat-screen TV with satellite channels, soundproof walls, a minibar and a wardrobe. The unit offers 3 beds.",
+                "room_size_square": 35,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 4,
+                "max_children": 3,
+                "max_occupancy": 4,
+                "bed_types": [
+                    {
+                        "quantity": 2,
+                        "bed_type": "Single bed(s)",
+                        "bed_size": "90-130 cm wide"
+                    },
+                    {
+                        "quantity": 1,
+                        "bed_type": "Sofa bed(s)",
+                        "bed_size": "Variable Size"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 77,
+                        "name": "Sofa",
+                        "sort": 65
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 146,
+                        "name": "Sofa bed",
+                        "sort": 75
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269716138.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269716138.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.95,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/hd/269716185.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269716185.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.93,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269719501.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/hd/269719501.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.66,
+                        "class_id": 1,
+                        "class_order": 1
+                    }
+                ]
+            },
+            {
+                "id": 22612207,
+                "room_name": "Classic Quadruple Room",
+                "description": "The quadruple room provides a safe deposit box, parquet floors, as well as a private bathroom boasting a bath or a shower and a hairdryer. The quadruple room features air conditioning, soundproof walls, a minibar, a wardrobe and a flat-screen TV with satellite channels. The unit has 3 beds.",
+                "room_size_square": 22,
+                "room_size_unit": "m2",
+                "hotel_id": "1238361",
+                "max_adults": 4,
+                "max_children": 3,
+                "max_occupancy": 4,
+                "bed_types": [
+                    {
+                        "quantity": 2,
+                        "bed_type": "Single bed(s)",
+                        "bed_size": "90-130 cm wide"
+                    },
+                    {
+                        "quantity": 1,
+                        "bed_type": "Large bed(s) (King size)",
+                        "bed_size": "151-180cm wide"
+                    }
+                ],
+                "room_amenities": [
+                    {
+                        "amenities_id": 3,
+                        "name": "Minibar",
+                        "sort": 4
+                    },
+                    {
+                        "amenities_id": 6,
+                        "name": "Safety deposit box",
+                        "sort": 17
+                    },
+                    {
+                        "amenities_id": 8,
+                        "name": "TV",
+                        "sort": 7
+                    },
+                    {
+                        "amenities_id": 9,
+                        "name": "Telephone",
+                        "sort": 113
+                    },
+                    {
+                        "amenities_id": 11,
+                        "name": "Air conditioning",
+                        "sort": 53
+                    },
+                    {
+                        "amenities_id": 12,
+                        "name": "Hairdryer",
+                        "sort": 95
+                    },
+                    {
+                        "amenities_id": 13,
+                        "name": "Wake up service/Alarm clock",
+                        "sort": 47
+                    },
+                    {
+                        "amenities_id": 23,
+                        "name": "Desk",
+                        "sort": 57
+                    },
+                    {
+                        "amenities_id": 31,
+                        "name": "Toilet",
+                        "sort": 10
+                    },
+                    {
+                        "amenities_id": 38,
+                        "name": "Private bathroom",
+                        "sort": 100
+                    },
+                    {
+                        "amenities_id": 40,
+                        "name": "Heating",
+                        "sort": 61
+                    },
+                    {
+                        "amenities_id": 44,
+                        "name": "Satellite channels",
+                        "sort": 20
+                    },
+                    {
+                        "amenities_id": 69,
+                        "name": "Bath or shower",
+                        "sort": 9
+                    },
+                    {
+                        "amenities_id": 75,
+                        "name": "Flat-screen TV",
+                        "sort": 2
+                    },
+                    {
+                        "amenities_id": 79,
+                        "name": "Soundproofing",
+                        "sort": 15
+                    },
+                    {
+                        "amenities_id": 82,
+                        "name": "Hardwood or parquet floors",
+                        "sort": 26
+                    },
+                    {
+                        "amenities_id": 83,
+                        "name": "Wake-up service",
+                        "sort": 48
+                    },
+                    {
+                        "amenities_id": 95,
+                        "name": "Wardrobe or closet",
+                        "sort": 13
+                    },
+                    {
+                        "amenities_id": 124,
+                        "name": "Towels",
+                        "sort": 30
+                    },
+                    {
+                        "amenities_id": 131,
+                        "name": "Entire unit located on ground floor",
+                        "sort": 165
+                    },
+                    {
+                        "amenities_id": 132,
+                        "name": "Upper floors accessible by elevator",
+                        "sort": 166
+                    },
+                    {
+                        "amenities_id": 134,
+                        "name": "Entire unit wheelchair accessible",
+                        "sort": 168
+                    },
+                    {
+                        "amenities_id": 141,
+                        "name": "Toilet paper",
+                        "sort": 105
+                    },
+                    {
+                        "amenities_id": 167,
+                        "name": "Bottle of water",
+                        "sort": 152
+                    },
+                    {
+                        "amenities_id": 170,
+                        "name": "Trash cans",
+                        "sort": 85
+                    },
+                    {
+                        "amenities_id": 177,
+                        "name": "Shampoo",
+                        "sort": 107
+                    },
+                    {
+                        "amenities_id": 179,
+                        "name": "Body soap",
+                        "sort": 109
+                    },
+                    {
+                        "amenities_id": 180,
+                        "name": "Shower cap",
+                        "sort": 110
+                    },
+                    {
+                        "amenities_id": 184,
+                        "name": "Socket near the bed",
+                        "sort": 89
+                    },
+                    {
+                        "amenities_id": 187,
+                        "name": "Non-feather pillow",
+                        "sort": 92
+                    },
+                    {
+                        "amenities_id": 189,
+                        "name": "Accessible by lift",
+                        "sort": 29
+                    },
+                    {
+                        "amenities_id": 201,
+                        "name": "Smoke alarm",
+                        "sort": 182
+                    },
+                    {
+                        "amenities_id": 208,
+                        "name": "Window",
+                        "sort": 14
+                    }
+                ],
+                "photos": [
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713809.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713809.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.41,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713788.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713788.jpg",
+                        "image_description": "",
+                        "image_class1": "hotel room",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.44,
+                        "class_id": 1,
+                        "class_order": 1
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269713797.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269713797.jpg",
+                        "image_description": "",
+                        "image_class1": "other",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 4.61,
+                        "class_id": 27,
+                        "class_order": 28
+                    },
+                    {
+                        "url": "https://static.cupid.travel/rooms-large-pictures/269717548.jpg",
+                        "hd_url": "https://static.cupid.travel/rooms-large-pictures/269717548.jpg",
+                        "image_description": "",
+                        "image_class1": "bathroom",
+                        "image_class2": "",
+                        "main_photo": false,
+                        "score": 5.73,
+                        "class_id": 2,
+                        "class_order": 29
+                    }
+                ]
+            }
+        ],
+        "reviews": null
+    }
+}
